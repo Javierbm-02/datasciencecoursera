@@ -1,8 +1,2 @@
----
-title: "HelloWorld"
-author: "Javier Blanco"
-date: "11/9/2020"
-output: pdf_document
----
 
 ## Este es un archivo de rebajas
